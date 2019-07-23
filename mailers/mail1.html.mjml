@@ -1,0 +1,36 @@
+<mjml>
+  <mj-head>
+    <mj-title>Bienvenido a Segle Clinical Mexico</mj-title>
+  </mj-head>
+  <mj-body>
+    <mj-wrapper background-url="https://gpslabmexico.s3.amazonaws.com/mailers/mailer190718/index.jpg">
+      <mj-section padding="883px 0 0 0">
+        <mj-column>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column width="18px"></mj-column>
+        <mj-column width="42px">
+          <mj-raw>
+            <a href="https://www.instagram.com/segle_clinical_mexico" target="_black" style="width: 100%; height:65px; display:block;"></a>
+          </mj-raw>
+        </mj-column>
+        <mj-column width="40px">
+          <mj-raw>
+            <a href="https://www.facebook.com/segleclinicalmx/" target="_black" style="width: 100%; height:65px; display:block;"></a>
+          </mj-raw>
+        </mj-column>
+        <mj-column width="500px"></mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column width="400px">
+        </mj-column>
+        <mj-column width="200px">
+          <mj-raw>
+            <a href="http://www.segleclinical.com/" style=" width:100%; height:25px; display:block;"></a>
+          </mj-raw>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>
