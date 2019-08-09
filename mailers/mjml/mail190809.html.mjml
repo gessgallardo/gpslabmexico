@@ -36,9 +36,10 @@
         </mj-column>
       </mj-section>
       <mj-section padding="0">
-        <mj-column padding="40px 0 0 0" background-color="transparent">
+        <mj-column padding="0">
+          <mj-button href="{{{unsubscribe}}}" target="_blank" padding="0" width="100%" height="20px" background-color="transparent" />
         </mj-column>
-        <mj-column padding="40px 0 0 0" background-color="transparent">
+        <mj-column padding="0">
         </mj-column>
       </mj-section>
     </mj-wrapper>
