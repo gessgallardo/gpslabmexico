@@ -1,0 +1,61 @@
+<mjml>
+  <mj-head>
+    <mj-title>Segle Clinical Mexico</mj-title>
+  </mj-head>
+  <mj-body>
+    <mj-wrapper padding="0 15px" background-url="https://gpslabmexico.s3.amazonaws.com/mailers/mailer191005/news.jpg">
+      <mj-section padding="290px 0 0 0"></mj-section>
+      <mj-section padding="0">
+        <mj-column>
+          <mj-raw>
+            <a href="https://gpslabmexico.s3.amazonaws.com/mailers/mailer191005/promo.jpg" target="_blank" style="display:block; padding:0 0 0 0; margin-bottom:15px; height:310px; width:100%; background-color:transparent;">&nbsp;</a>
+          </mj-raw>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column>
+          <mj-raw>
+            <a href="https://gpslabmexico.s3.amazonaws.com/mailers/mailer191005/capsula.jpg" target="_blank" style="display:block; padding:0; height:400px; width:100%; background-color:transparent;">&nbsp;</a>
+          </mj-raw>
+        </mj-column>
+        <mj-column>
+          <mj-raw>
+            <a href="https://gpslabmexico.s3.amazonaws.com/mailers/mailer191005/treatment.jpg" target="_blank" style="display:block; padding:0; height:400px; width:100%;background-color:transparent;">&nbsp;</a>
+          </mj-raw>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="125px 0 0 0"></mj-section>
+      <mj-section padding="0">
+        <mj-column width="45px">
+          <mj-raw>
+            <a href="https://www.instagram.com/segle_clinical_mexico" target="_black" style="display:block; padding:0; width:100%; height:75px; background-color:transparent;">&nbsp;</a>
+          </mj-raw>
+        </mj-column>
+        <mj-column width="45px">
+          <mj-raw>
+            <a href="https://www.facebook.com/segleclinicalmx/" target="_black" style="display:block; padding:0; width:100%; height:75px; background-color:transparent;">&nbsp;</a>
+          </mj-raw>
+        </mj-column>
+        <mj-column width="480px">
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column width="410px" padding="0"></mj-column>
+        <mj-column width="160px" padding="0">
+          <mj-raw>
+            <a href="http://www.segleclinical.com/" target="_blank" style="display:block; padding:0; width:100%; height:40px; background-color:transparent;">&nbsp;</a>
+          </mj-raw>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column padding="0">
+          <mj-raw>
+            <a href="{{{unsubscribe}}}" target="_blank" style="display:block; padding:0; width:100%; height:40px; background-color:transparent;">&nbsp;</a>
+          </mj-raw>
+        </mj-column>
+        <mj-column padding="0">
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>
