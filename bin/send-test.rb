@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'sendgrid-ruby'
 
 include SendGrid
@@ -12,9 +14,9 @@ mail.template_id = 'd-2c214ac919e84170b21855cc129b4a5f'
 sg = SendGrid::API.new(api_key: ENV['SENDGRID_API_KEY'])
 
 begin
-    response = sg.client.mail._("send").post(request_body: mail.to_json)
+  response = sg.client.mail._('send').post(request_body: mail.to_json)
 rescue Exception => e
-    puts e.message
+  puts e.message
 end
 
 puts response.status_code

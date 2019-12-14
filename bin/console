@@ -1,18 +1,6 @@
 #!/usr/bin/env ruby
-require "irb"
-require "irb/completion" # easy tab completion
-require "bundler/setup"
+# frozen_string_literal: true
 
+require_relative '../config/application.rb'
 
-
-# require your libraries + basic initialization
-require 'dotenv'
-
-Bundler.require
-
-Dotenv.load(
-    '.env',
-    '.env.local'
-)
-
-IRB.start
+Pry.start

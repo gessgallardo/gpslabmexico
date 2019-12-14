@@ -1,0 +1,25 @@
+# Logfile created on 2019-12-13 18:42:00 +0100 by logger.rb/66358
+I, [2019-12-13T18:42:17.539782 #95176]  INFO -- : [HTTParty] [2019-12-13 18:42:17 +0100] 301 "GET /v3/campaings?limit=1000&offset=0" 178 
+I, [2019-12-13T18:42:17.846890 #95176]  INFO -- : [HTTParty] [2019-12-13 18:42:17 +0100] 403 "GET https://api.sendgrid.com/v3/campaings?limit=1000&offset=0" 56 
+D, [2019-12-13T18:43:08.865952 #95443] DEBUG -- : [HTTParty] [2019-12-13 18:43:08 +0100] 301 "GET /v3/campaings?limit=1000&offset=0" 178 
+D, [2019-12-13T18:43:09.175839 #95443] DEBUG -- : [HTTParty] [2019-12-13 18:43:09 +0100] 403 "GET https://api.sendgrid.com/v3/campaings?limit=1000&offset=0" 56 
+D, [2019-12-13T18:48:55.230658 #96258] DEBUG -- : [HTTParty] [2019-12-13 18:48:55 +0100] 301 "GET /v3/campaings?limit=1000&offset=0" 178 
+D, [2019-12-13T18:48:55.536553 #96258] DEBUG -- : [HTTParty] [2019-12-13 18:48:55 +0100] 403 "GET https://api.sendgrid.com/v3/campaings?limit=1000&offset=0" 56 
+D, [2019-12-13T18:49:12.242340 #96378] DEBUG -- : [HTTParty] [2019-12-13 18:49:12 +0100] 301 "GET /v3/campaings?limit=1000&offset=0" 178 
+D, [2019-12-13T18:49:12.549274 #96378] DEBUG -- : [HTTParty] [2019-12-13 18:49:12 +0100] 403 "GET https://api.sendgrid.com/v3/campaings?limit=1000&offset=0" 56 
+D, [2019-12-13T18:49:45.161779 #96378] DEBUG -- : [HTTParty] [2019-12-13 18:49:45 +0100] 301 "GET /v3/campaings?limit=1000&offset=0" 178 
+D, [2019-12-13T18:49:45.456978 #96378] DEBUG -- : [HTTParty] [2019-12-13 18:49:45 +0100] 403 "GET https://api.sendgrid.com/v3/campaings?limit=1000&offset=0" 56 
+D, [2019-12-13T18:49:51.139799 #96690] DEBUG -- : [HTTParty] [2019-12-13 18:49:51 +0100] 301 "GET /v3/campaings?limit=1000&offset=0" 178 
+D, [2019-12-13T18:49:51.446007 #96690] DEBUG -- : [HTTParty] [2019-12-13 18:49:51 +0100] 403 "GET https://api.sendgrid.com/v3/campaings?limit=1000&offset=0" 56 
+D, [2019-12-13T18:52:14.494245 #96979] DEBUG -- : [HTTParty] [2019-12-13 18:52:14 +0100] 403 "GET /v3/campaings?limit=1000&offset=0" 56 
+D, [2019-12-13T18:53:53.665280 #97595] DEBUG -- : [HTTParty] [2019-12-13 18:53:53 +0100] 404 "GET /v3/campaings?limit=1000&offset=0" 58 
+D, [2019-12-13T18:54:11.343070 #97595] DEBUG -- : [HTTParty] [2019-12-13 18:54:11 +0100] 404 "GET /v3/campaings?limit=1000&offset=0" 58 
+D, [2019-12-13T18:54:17.627690 #97712] DEBUG -- : [HTTParty] [2019-12-13 18:54:17 +0100] 404 "GET /v3/campaings?limit=1000&offset=0" 58 
+D, [2019-12-13T18:55:02.184647 #98013] DEBUG -- : [HTTParty] [2019-12-13 18:55:02 +0100] 404 "GET /v3/campaings" 58 
+D, [2019-12-13T18:55:20.468507 #98013] DEBUG -- : [HTTParty] [2019-12-13 18:55:20 +0100] 404 "GET /v3/campaings" 58 
+D, [2019-12-13T18:55:27.624503 #98166] DEBUG -- : [HTTParty] [2019-12-13 18:55:27 +0100] 401 "GET /v3/campaings" 62 
+D, [2019-12-13T18:55:53.279313 #98287] DEBUG -- : [HTTParty] [2019-12-13 18:55:53 +0100] 404 "GET /v3/campaings" 58 
+D, [2019-12-13T18:56:24.313954 #98538] DEBUG -- : [HTTParty] [2019-12-13 18:56:24 +0100] 403 "GET /v3/campaigns" 56 
+D, [2019-12-13T18:57:00.449384 #98538] DEBUG -- : [HTTParty] [2019-12-13 18:57:00 +0100] 403 "GET /v3/campaigns" 56 
+D, [2019-12-13T18:57:06.874733 #98751] DEBUG -- : [HTTParty] [2019-12-13 18:57:06 +0100] 403 "GET /v3/campaigns" 56 
+D, [2019-12-13T18:57:43.194643 #98925] DEBUG -- : [HTTParty] [2019-12-13 18:57:43 +0100] 403 "GET /v3/campaigns" 56 
