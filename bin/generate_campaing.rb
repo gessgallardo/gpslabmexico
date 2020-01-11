@@ -7,5 +7,7 @@ opts = Optimist.options do
   opt :name, 'Mailer Name', type: :string, required: true
 end
 
-mailer = Mailer.generate(name: opts[:name])
-system `open #{mailer.output_filename}`
+campaing = Campaing.new(name: opts[:name])
+campaing.create
+
+system `open #{campaing.output_filename}`
